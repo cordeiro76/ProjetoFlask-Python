@@ -1,2 +1,2 @@
 # ProjetoFlask-Python
- Python, Flask, ReactJS, MySQL - demonstrar iteração do backend com frontend.
+ Python, Flask, ReactJS, MySQL - demonstrar interação do backend com frontend.
